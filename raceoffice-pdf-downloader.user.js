@@ -4,8 +4,8 @@
 // @version      0.2
 // @description  Dieses Script zwingt Raceoffice.org PDFs direkt im Browser und nicht erst im "Google Docs Viewer" zu öffnen.
 // @match        http://www.raceoffice.org/event.php*
-// @downloadURL  https://raw.githubusercontent.com/PascalHelbig/Raceoffice-PDF-Downloader/master/raceoffice-pdf-downloader.js
-// @updateURL    https://raw.githubusercontent.com/PascalHelbig/Raceoffice-PDF-Downloader/master/raceoffice-pdf-downloader.js
+// @downloadURL  https://raw.githubusercontent.com/PascalHelbig/Raceoffice-PDF-Downloader/master/raceoffice-pdf-downloader.user.js
+// @updateURL    https://raw.githubusercontent.com/PascalHelbig/Raceoffice-PDF-Downloader/master/raceoffice-pdf-downloader.user.js
 // @copyright    2014+, Pascal Helbig
 // ==/UserScript==
 
